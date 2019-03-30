@@ -22,6 +22,13 @@ you should start using this link : [What is a kernel](https://en.m.wikipedia.org
 * [Epic Development Environment using Windows Subsystem for Linux](https://dev.to/johnbwoodruff/epic-development-environment-using-windows-subsystem-forlinux-5f0n)
 * The package manager for Windows, Chocolatey is a package manager for Windows (like apt-get or yum but for Windows). It was designed to be a decentralized framework for quickly installing applications and tools that you need. It is built on the NuGet infrastructure currently using PowerShell as its focus for delivering packages from the distros to your door, err computer.[chocolatey](https://chocolatey.org/)
 
+## Recomended Books
+
+This is a list of books commonly recomended in Microsoft social circles :
+
+* [Mastering Windows Server 2016 H - John Savill](https://www.amazon.es/Mastering-Windows-Server-2016-Hyper-V/dp/1119286182)
+* [Learn powershell toolmaking in a month of lunches](https://www.amazon.es/Learn-PowerShell-Toolmaking-Month-Lunches/dp/1617291161)
+
 
 ## Visual Studio Code Extensions
  A list of vscode extension currently used for ops automation.
